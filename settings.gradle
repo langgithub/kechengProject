@@ -1,0 +1,11 @@
+//include ':XpHelloword'
+//include ':test'
+//include ':demo'
+//include ':socketclient'
+//include ':test'
+//include ':xpModule'
+//include ':sourcetest'
+include ':app'
+//include ':soTest'
+
+rootProject.name = "kechengProject"
